@@ -118,7 +118,7 @@ const SmartParking = () => {
       <LogPanel logs={logs} />
       
       <Link to="/map">
-      <div className="fixed bottom-6 right-6 shadow-lg bg-blue-500 py-3 px-5 rounded-xl overflow-hidden">
+      <div className="fixed bottom-6 text-white right-6 shadow-lg bg-blue-600 py-3 px-5 rounded-xl overflow-hidden">
         <p>Map</p>
       </div>
       </Link>
